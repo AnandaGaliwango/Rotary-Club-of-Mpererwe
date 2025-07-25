@@ -1,0 +1,45 @@
+
+        /* Custom CSS for elements that need more specific styling */
+        .hero-section {
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://rotarygayaza.org/wp-content/uploads/2021/08/IMG_20210814_110736-scaled.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        
+        .rotary-blue {
+            background-color: #1F4E79;
+        }
+        
+        .rotary-gold {
+            background-color: #F6BE00;
+        }
+        
+        .text-rotary-blue {
+            color: #1F4E79;
+        }
+        
+        .text-rotary-gold {
+            color: #F6BE00;
+        }
+        
+        .border-rotary-blue {
+            border-color: #1F4E79;
+        }
+        
+        .border-rotary-gold {
+            border-color: #F6BE00;
+        }
+        
+        .nav-link:hover {
+            color: #F6BE00;
+        }
+        
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+        
+        .smooth-scroll {
+            scroll-behavior: smooth;
+        }
